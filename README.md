@@ -25,4 +25,6 @@ Explanation: [1,null,3] and [3,1] are both height-balanced BSTs.
 - 10^4 <= nums[i] <= 10^4
 - nums is sorted in a strictly increasing order.
 
-Reference for problem description: [LeetCode: Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+### Reference for problem description:
+[LeetCode: Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
