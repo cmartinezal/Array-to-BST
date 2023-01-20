@@ -64,11 +64,10 @@ class Solution:
         if root:
             root.traverse_pre_order()
 
-
+solution = Solution()
 #TEST 1
 print('-Test 1:')
 nums = [-10,-3,0,5,9]
-solution = Solution()
 solution.print_solution(nums)
 
 
@@ -76,33 +75,28 @@ solution.print_solution(nums)
 print()
 print('-Test 2:')
 nums = [1,3]
-solution = Solution()
 solution.print_solution(nums)
 
 #TEST 3
 print()
 print('-Test 3:')
 nums = [1]
-solution = Solution()
 solution.print_solution(nums)
 
 #TEST 4
 print()
 print('-Test 4:')
 nums = [1,2,3,4]
-solution = Solution()
 solution.print_solution(nums)
 
 #TEST 5
 print()
 print('-Test 5:')
 nums = []
-solution = Solution()
 solution.print_solution(nums)
 
 #TEST 6
 print()
 print('-Test 6:')
 nums = [1,2,3]
-solution = Solution()
 solution.print_solution(nums)
