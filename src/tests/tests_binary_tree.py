@@ -1,7 +1,9 @@
-from typing import Optional
-from typing import List
-from binarytree import build
-from ..binary_tree import BinaryTree
+import os
+import sys
+root_folder = os.path.abspath(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(root_folder)
+
+from binary_tree.binary_tree import BinaryTree
 
 def test_1():
     tree = BinaryTree()
