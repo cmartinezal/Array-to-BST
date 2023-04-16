@@ -36,7 +36,11 @@ There is a python file with the code and a Jupyter Notebook to visualize the cod
 
 ### Prerequisites
 
-Python 3 must be installed.
+Python 3 must be installed. Install requirements using requirements.txt file
+
+```sh
+pip3 install -r requirements.txt
+```
 
 ### Installation
 
