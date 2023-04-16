@@ -28,3 +28,22 @@ Explanation: [1,null,3] and [3,1] are both height-balanced BSTs.
 
 ### Reference for problem description:
 [LeetCode: Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+## Getting Started
+
+Let's start to use this project.\
+There is a python file with the code and a Jupyter Notebook to visualize the code execution in your browser.
+
+### Prerequisites
+
+Python 3 must be installed.
+
+### Installation
+
+To execute the project open the terminal and go to the project folder. Then execute it with python:
+
+```sh
+python3 array_to_BST.py
+```
+
+You can also use Jupyter Notebook to execute it in your browser or text editor directly.
